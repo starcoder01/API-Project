@@ -16,7 +16,7 @@
 //1. BOOKS
 //We need an API :-
 //To get all the books
-//To get specific book
+//To get specific book based on ISBN
 //To get a list of books based on category
 //To get a list of books based on languages
 
@@ -31,3 +31,11 @@
 //To get all the publications
 //To get a specific publication
 //To get a list of publications based on a book
+
+
+//POST REQUEST
+/*
+1.add new book
+2. add new publication
+3.add new author
+*/
