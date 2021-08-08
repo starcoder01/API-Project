@@ -39,3 +39,15 @@
 2. add new publication
 3.add new author
 */
+
+//PUT
+/*
+Update book details if author is changed
+*/
+
+//DELETE
+/*
+Delete a book
+Delete an author from book
+Delete author from book and related book from author
+*/
